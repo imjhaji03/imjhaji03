@@ -35,18 +35,6 @@
   </a>
 </p>
 
-
----
-
-### 💻 Code Portfolios & Socials
-
--   **GitHub:** [imjhaji03](https://github.com/imjhaji03)
--   **LinkedIn:** [amit-gunjan-jha](https://www.linkedin.com/in/amit-gunjan-jha/)
--   **LeetCode:** [imjhaji_03](https://www.leetcode.com/imjhaji_03)
--   **GeeksForGeeks:** [imjhaji_03](https://auth.geeksforgeeks.org/user/imjhaji_03)
-
--   **Twitter:** [AmitGunjanJha1]((https://x.com/AmitGunjanJha1))
-
 ---
 
 ### 📫 Contact
