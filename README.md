@@ -1,18 +1,18 @@
 # Amit Gunjan Jha 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imjhaji03&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="imjhaji03" />
-</p>
+
 
 ---
 
 ### 🛠️ Languages & Technologies
 
--   **Programming Languages:** Java, Python, C++, JavaScript
--   **Frontend Development:** HTML, CSS, React, Next.js, Tailwind CSS
--   **Backend Development:** Node.js, Express, GraphQL, Nginx
--   **Databases:** MongoDB, MySQL
--   **Developer Tools:** Git, Postman, Figma, MATLAB
+-   **Languages:** Java, C++, SQL
+-   **Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming (OOP)
+-   **Databases:** MySQL, MongoDB, PostgreSQL
+-   **Backend Frameworks:** Spring Boot, JUnit, Mockito
+-   **Cloud (AWS):** EC2, S3, RDS, IAM, Elastic Beanstalk, Route 53
+-   **DevOps & CI/CD:**  Docker, Kubernetes, Terraform, Jenkins, Ansible, NGINX, GitLab
+-   **Developer Tools:**  Git, Maven, Apache JMeter, Postman
 
 ---
 
@@ -39,4 +39,4 @@
 
 ### 📫 Contact
 
--   **Email:** [jamit5492@gmail.com](mailto:jamit5492@gmail.com)
+-   **Email:** [amitgunjanjha799@gmail.com](mailto:amitgunjanjha799@gmail.com)
