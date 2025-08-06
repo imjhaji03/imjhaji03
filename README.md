@@ -11,7 +11,7 @@
 -   **Databases:** MySQL, MongoDB, PostgreSQL
 -   **Backend Frameworks:** Spring Boot, JUnit, Mockito
 -   **Cloud (AWS):** EC2, S3, RDS, IAM, Elastic Beanstalk, Route 53
--   **DevOps & CI/CD:**  Docker, Kubernetes, Terraform, Jenkins, Ansible, NGINX, GitLab
+-   **DevOps & CI/CD:**  Docker, Kubernetes, Terraform, NGINX, GitLab
 -   **Developer Tools:**  Git, Maven, Apache JMeter, Postman
 
 ---
