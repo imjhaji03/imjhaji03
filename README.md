@@ -6,7 +6,7 @@
 
 ### 🛠️ Languages & Technologies
 
--   **Languages:** Java, C++, Python, SQL
+-   **Languages:** Java, C++, SQL
 -   **Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming (OOP)
 -   **Databases:** MySQL, MongoDB, PostgreSQL
 -   **Backend Frameworks:** Spring Boot, JUnit, Mockito
