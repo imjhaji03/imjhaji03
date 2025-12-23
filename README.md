@@ -1,6 +1,6 @@
 # Amit Gunjan Jha 
 🚀 **Backend / Cloud Engineer | Java | Spring Boot | AWS | DevOps**  
-🌐 **Portfolio:** [https://www.amitgunjanjha.me](https://www.amitgunjanjha.me)
+
 
 ---
 
@@ -27,7 +27,9 @@
   </a>
 </p>
 
+---
 
+> *“Life is all about 0s and 1s — the choices we make, and the systems we build.”*
 ---
 
 ### 📫 Contact
