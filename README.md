@@ -23,17 +23,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=imjhaji03&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Amit's GitHub Stats" />
   </a>
   <a href="https://github.com/imjhaji03">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imjhaji03&theme=radical&hide_border=true" alt="Amit's GitHub Streak" />
-  </a>
-  <a href="https://github.com/imjhaji03">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjhaji03&layout=compact&theme=radical&hide_border=true" alt="Amit's Top Languages" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imjhaji03&theme=radical&margin-w=15&margin-h=15" alt="imjhaji03" />
-  </a>
-</p>
+
 
 ---
 
