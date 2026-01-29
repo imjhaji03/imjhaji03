@@ -77,7 +77,6 @@ With my technical stack, I build projects across multiple domains:
 I'm always open to discussing technology, backend architecture, cloud infrastructure, and collaboration opportunities.
 
 - **Email:** [amitgunjanjha799@gmail.com](mailto:amitgunjanjha799@gmail.com)
-- **GitHub:** [@imjhaji03](https://github.com/imjhaji03)
 
 ---
 
